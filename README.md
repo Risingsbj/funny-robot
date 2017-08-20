@@ -8,7 +8,7 @@ npm install turing-robot –g
 
 # 样例
 
-![image](./images/turing-robot.png)
+![image](./images/funny-robot.png)
 
 
 # 感谢
